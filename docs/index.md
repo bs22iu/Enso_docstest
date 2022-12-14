@@ -69,11 +69,11 @@ Each survey you create in Enso is comprised of **Sections, Pages, and Questions,
 
 <section class="c-alert c-alert--warning">
   <header class="c-alert__header">
-    <p>
-      Helpful Tip
-    </p>
+    <p>Helpful Tip</p>
   </header>
   <p>
+  <b>Helpful Tip</b>
+  <br>
     It is highly recommended that you think through how you want to organize and display your survey questions and create the all desired sections and pages **BEFORE** you start creating the survey questions. This is because you cannot move a question to a different section or page once you have created it within a section and page (although you can reorder pages). This tip will save you from having to delete and re-create survey questions.
   </p>
 </section>
