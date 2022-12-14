@@ -7,7 +7,7 @@ title: Enso Survey Building Guide
 
 # Enso Survey Building Guide
 
-# Enso Login and home screen
+## Enso Login and home screen
 
 - Login via the Enso gateway. Enter your unique username and password in the boxes, and click “Log in.”
     - If you ever forget what your user and password are, please contact an associate with administrative access to Enso.
@@ -15,7 +15,7 @@ title: Enso Survey Building Guide
         ![Untitled](assets/img/Untitled.png)
         
 
-## Enso home screen
+### Enso home screen
 
 - Once you are logged in, you should see the screen below, but in the upper right corner it will say “Logged in as *your username*”.
 - The user role assigned to your account determines which Enso features you can access and use.
@@ -24,7 +24,7 @@ title: Enso Survey Building Guide
     ![Untitled](assets/img/Untitled%201.png)
     
 
-# Creating and Editing Surveys
+## Creating and Editing Surveys
 
 To begin creating a survey (or editing a survey you have already started), click on the **Surveys** button in the middle of the page. Alternatively, you can click Surveys from the menu at the top of the page.
 
@@ -45,7 +45,7 @@ To begin creating a new survey, click the green button **Create New Survey**.
         ![Untitled](assets/img/Untitled%205.png)
         
 
-## Edit Survey
+### Edit Survey
 
 Survey information fields include:
 
@@ -69,7 +69,7 @@ Each survey you create in Enso is comprised of **Sections, Pages, and Questions,
 
 `Helpful Tip`: It is highly recommended that you think through how you want to organize and display your survey questions and create the all desired sections and pages **BEFORE** you start creating the survey questions. This is because you cannot move a question to a different section or page once you have created it within a section and page (although you can reorder pages). This tip will save you from having to delete and re-create survey questions.
 
-### **Sections**
+#### Sections
 
 Within a survey, you can create new sections to break up the survey and allow for navigation across sections. For example, you might organize your survey questions into distinct sections with labels such as demographics, personal, family/kinship, or work/profession. 
 
@@ -89,7 +89,7 @@ Additional information:
 - Can use display logic to use variables to display or not display a section.
 - Can duplicate an entire section. ***If you do this and want to use the same questions but not accidentally save the data value in the same column as the previous time
 
-### **Pages**
+#### Pages
 
 Within a section, you can create as many pages as you’d like to break up the survey. **Enso saves data when you click “Next page,” so it’s a good idea to break the survey up across pages.** In addition, it can be easier to navigate for the interviewer/respondent. Pages are comprised of:
 
@@ -110,7 +110,7 @@ Additional information:
 
 *In summary, if you use the **Duplicate** button for a section, page, or question, PLEASE remember to **change the variable names**!!!*
 
-### Questions
+#### Questions
 
 Each question in Enso has a unique set of parameters to customize. However, they all share the following characteristics:
 
@@ -164,8 +164,8 @@ Ego question types include:
 7. **Static Text (prompt only)**
 8. **Range Slider**
 
-**Date/Time** – Captures data in date and time
-
+#### Date/Time
+Captures data in date and time
 - Enter variable Defaults to QID_DATE
 - Specify whether to **Allow User Input** or use **Timestamp**
 - User input: Specify month, date, year, time, or any combination
@@ -176,8 +176,8 @@ Ego question types include:
 
 ![Untitled](assets/img/Untitled%2012.png)
 
-**Multiple Choice** – standard multiple choice question
-
+#### Multiple Choice
+Standard multiple choice question
 - Can set to select one only or allow multiple selections
 - Enter question prompt text in the “Prompt”
 - Choose whether to display responses horizontally or vertically (default)
@@ -210,7 +210,8 @@ Example: Multiple choice in which you allow multiple selections below.
 
 ![Untitled](assets/img/Untitled%2014.png)
 
-**Multiple Choice Grid Row** – for multiple questions using the same response option, such as a Likert You can include the response options at the top and repeat just the question stems in the rows.
+#### Multiple Choice Grid Row
+For multiple questions using the same response option, such as a Likert You can include the response options at the top and repeat just the question stems in the rows.
 
 - For the header row, enter the prompt, instructions, or question stem that you want to head up the grid rows.
 - Select **Header Row Only** for that
@@ -230,7 +231,8 @@ Example of grid row header question:
     ![Untitled](assets/img/Untitled%2016.png)
     
 
-**Numeric Field** – enter numeric
+#### Numeric Field
+For questions requiring user to enter a numeric reponse.
 
 - Default variable name is QID_NUMBER
 - Enter new variable name
@@ -241,24 +243,21 @@ Example of grid row header question:
     ![Untitled](assets/img/Untitled%2017.png)
     
 
-|  |
-| --- |
-|  |
-
-**Text Field and Paragraph Field** – enter plain text data in short or long
-
+#### Text Field and Paragraph Field
+Enter plain text data in short or long
 - Format is the same for both text field and paragraph text, but the latter can take more characters (e.g., for a qualitative interview response).
 - Enter question prompt
 - You may put text in the empty box as a placeholder
 - Data are saved as
 - Looks the same as the above numeric field
 
-**Static Text (prompt)** – This acts as a static text field for prompts, instructions, and any other time you want to present text but not save data.
+#### Static Text (prompt)
+This acts as a static text field for prompts, instructions, and any other time you want to present text but not save data.
 
 - **Prompt:** Enter prompt only, does not save as a variable in
 
-**Range Slider** – allows respondents to move a slider across a numeric
-
+#### Range Slider
+Allows respondents to move a slider across a numeric
 - **Variable names:** defaults to QID_NUMBER, can change variable name
 - **Prompt:** Enter prompt
 - **Min and max:** Enter the minimum and maximum values you want for your scale.
@@ -288,7 +287,8 @@ Alter question types include:
 8. **Bullseye**
 9. **Bin sort**
 
-**Basic Name Generator/Name Picker** – the most important question type that makes this network data collection software! This question allows you to add alters to the data, and add/select alters in response to questions.
+#### Basic Name Generator/Name Picker
+The most important question type that makes this network data collection software! This question allows you to add alters to the data, and add/select alters in response to questions.
 
 - **Name generator vs. name picker:** Sometimes you want to add new alters, and sometimes you only want ego to choose from a selected list of alters. You can do either with this question type.
 - **Variable name:** This is important because THIS WILL TELL YOU WHICH ALTERS BELONG TO THIS LIST in the data. Data are saved with this variable name as a column header, with 1 for each alter who is added or selected in response to this name generator/name picker.
@@ -314,7 +314,7 @@ Alter question types include:
     - **Add new names** to add new names
     - **Pick only** does not allow new names to be
 
-Other types “for alters”
+#### Other types “for alters”
 
 - **Date/Time for alters**
 - **Multiple Choice for alters**
@@ -345,7 +345,8 @@ You may also use display logic to only ask follow up questions of certain alters
 
 ![Untitled](assets/img/Untitled%2022.png)
 
-**Bullseye** – displays concentric rings, or a bullseye, on which the ego can place alters. The ego can move the alter anywhere on the rings in response to a question prompt and instructions.
+#### Bullseye
+Displays concentric rings, or a bullseye, on which the ego can place alters. The ego can move the alter anywhere on the rings in response to a question prompt and instructions.
 
 - **Variable names:** default to QID_X, QID_Y, QID_RING, QID_CATEGORY, QID_DISTANCE, QID_QUADRANT. Will explain each of these below. Enso saves data for the bullseye question in each of these variables. You may change variable names.
 - **Prompt:** Enter the question prompt and
@@ -366,7 +367,8 @@ You may also use display logic to only ask follow up questions of certain alters
 - **Quadrants:** You can choose to divide the bullseye into quadrants, display those quadrants, and assign labels and values to the quadrants, if desired.
 - Enso saves values for each of these data points automatically, in the variables listed above. You may change the variable names.
 
-**Bin Sort –** an interactive way to assign categorical characteristics to
+#### Bin Sort
+An interactive way to assign categorical characteristics to
 
 - **Prompt:** enter question stem or prompt here, as for any multiple choice
 - **Input alter group:** indicate the alter group that you want to display
@@ -381,7 +383,8 @@ You may also use display logic to only ask follow up questions of certain alters
 
 Enso gives you three options for eliciting ties between alters.
 
-**Basic Alter Ties:** Essentially asks to confirm a tie between every pair of alters, in individual question styles:
+#### Basic Alter Ties
+Essentially asks to confirm a tie between every pair of alters, in individual question styles:
 
 - Saves data as a variable with a value for the relationship between each
 - You may create and assign **response choices to value** the relationship between each pair of alters.
@@ -391,7 +394,8 @@ Enso gives you three options for eliciting ties between alters.
         ![Untitled](assets/img/Untitled%2026.png)
         
 
-**Network Graph –** is a nodelink diagram with all chosen alters, in which the ego can draw lines between alters with a mouse or finger.
+#### Network Graph
+A nodelink diagram with all chosen alters, in which the ego can draw lines between alters with a mouse or finger.
 
 - **Input alter group:** chose which alters to display
 - **Prompt:** question prompt
@@ -402,7 +406,8 @@ Enso gives you three options for eliciting ties between alters.
     ![Untitled](assets/img/Untitled%2027.png)
     
 
-**Box Pop** – an efficient alter-tie method that allows the ego to quickly assign value to each alter-alter tie, and the next pair pops up quickly.
+#### Box Pop
+An efficient alter-tie method that allows the ego to quickly assign value to each alter-alter tie, and the next pair pops up quickly.
 
 - **Label:** what you want to call the relationship/tie
 - **Value:** what numeric value you want to assign to tie
