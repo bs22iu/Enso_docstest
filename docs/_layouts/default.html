@@ -24,6 +24,10 @@
         <!-- <p>{{ site.description | default: site.github.project_tagline }}</p> -->
         <!-- <h2>{{ site.description | default: site.github.project_tagline }}</h2> -->
         <!-- <h2>CADRE User Guide</h2> -->
+        {% if site.data.navigation.main %}
+        {% assign item = site.data.navigation.main %}
+        <a href="{{ item.url }}">{{ item.title }}</a>
+        {% endif %}
         
         <!-- <details markdown="block">
           <summary>
@@ -33,7 +37,7 @@
         </details> -->
 
         <!-- <h2>{{ content.title }}</h2> -->
-        <h2>{{ title }}</h2>
+        <h2>{{ page.title }}</h2>
 
         <p><b>Table of Contents</b></p>
         <!-- <h3>Table of Contents</h3> -->
