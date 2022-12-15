@@ -18,6 +18,16 @@ kramdown:
 
 baseurl: '/Enso_docstest'
 
+defaults:
+  # _pages
+  - 
+    scope:
+      path: ""
+      type: pages
+    values:
+      permalink: /:path/ # make URL of pages in the folder _pages as on the root.
+      #permalink: /pages/:name/ # make URL of pages in the folder _pages as on the root.
+      layout: default
 
 ## Navigation
 ## List links that should appear in the site sidebar here
