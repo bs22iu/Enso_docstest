@@ -6,7 +6,7 @@ description: User Guide Documentation
 logo: "assets/enso_logo.png"
 
 # Build settings
-#include: ["_pages", "pages"]
+include: ["_pages", "pages"]
 ### include: - _pages
 
 markdown: kramdown
