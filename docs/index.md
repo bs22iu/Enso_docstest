@@ -3,7 +3,7 @@ layout: default
 title: Enso Survey Building Guide
 ---
 
-<!-- [Another Documentation Guide](technical_docs/tech_doc.md) -->
+[Managing Interviews Using Enso](_pages/ManagingInterviews.md)
 
 # Enso Survey Building Guide
 
