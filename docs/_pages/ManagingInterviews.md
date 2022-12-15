@@ -7,7 +7,7 @@ title: Managing Interviews Using Enso
 
 First, click on the blue **Interviews** button as in the screenshot above. You’ll see an **interview administration** page that looks something like this:
 
-![Untitled](assets/img/ManagingInterviews/Untitled.png)
+![Untitled](./assets/img/ManagingInterviews/Untitled.png)
 
 From this page, you will be able to accomplish the following tasks, in three categories:
 
@@ -38,7 +38,7 @@ For each survey, you’ll see the following tools/buttons on the right hand side
 - **Reload**
 - **Begin Interview**
     
-    ![Untitled](assets/img/ManagingInterviews/Untitled%202.png)
+    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%202.png)
     
 
 #### Remove Survey
