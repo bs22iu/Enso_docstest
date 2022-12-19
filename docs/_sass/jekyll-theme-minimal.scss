@@ -234,7 +234,8 @@ footer {
     min-width: 55%;
     max-width: 100%;
     /*width: calc((800px - 100%) * 800);*/
-    width: calc((480px - 100%) * 480);
+    /*width: calc((480px - 100%) * 480);*/
+    width: calc((100% - 19rem) * 1);
     float:right;
     border:1px solid #e5e5e5;
     border-width:1px 0;
