@@ -9,10 +9,17 @@
   border-top-color: #bdbd00;
 }
 
+header.c-alert__header {
+  font-weight: bold;
+  margin-bottom: 1rem;
+  p {
+    margin-bottom: 0;
+  }
+}
+
 .c-alert__header {
   font-weight: bold;
   margin-bottom: 1rem;
-
   p {
     margin-bottom: 0;
   }
