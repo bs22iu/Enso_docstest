@@ -1,8 +1,8 @@
 .c-alert {
   border-top: 5px solid transparent;
-  /*margin-bottom: 1rem;*/
-  margin-bottom: 0rem;
-  padding: 1rem;
+  margin-bottom: 1rem;
+  /*padding: 1rem;*/
+  padding: 0rem;
 }
 
 .c-alert--warning {
@@ -12,8 +12,7 @@
 
 header.c-alert__header {
   font-weight: bold;
-  /*margin-bottom: 1rem;*/
-  margin-bottom: 0rem;
+  margin-bottom: 1rem;
   p {
     margin-bottom: 0;
   }
@@ -21,8 +20,7 @@ header.c-alert__header {
 
 .c-alert__header {
   font-weight: bold;
-  /*margin-bottom: 1rem;*/
-  margin-bottom: 0rem;
+  margin-bottom: 1rem;
   p {
     margin-bottom: 0;
   }
