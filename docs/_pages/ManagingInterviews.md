@@ -194,7 +194,7 @@ You can **continue an interview** that has been interrupted. To do so:
   <b>Helpful Tip</b>
   <br>
     - If you have any trouble with network members not appearing where they should in questions, you may need to go back to the beginning and simply click <b>“next page” SLOWLY</b>  until you reach the part of the survey you have not yet completed.<br>
-    - Moving **slowly** through the pages is important.
+    - Moving <b>slowly</b> through the pages is important.
   </p>
 </div>
 
