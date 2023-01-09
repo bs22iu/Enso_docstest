@@ -28,43 +28,43 @@ title: Creating and Managing Rosters
         ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/CreatingManagingRosters/Untitled%203.png)
         
 ### Add New Alters
-    - After clicking the green “Add New Alter” button (shown above), complete the 3 fields on the Create Alter page.
-        - **Alter Name**: type in the name of the individual that will be added to the roster
-        - **Email address**: type the individual’s email address. This is important if you plan to use Enso to distribute your survey via email.
-        - **Project**: Select the project name from the pulldown (again, it is beneficial to create a project before you start building a roster)
+- After clicking the green “Add New Alter” button (shown above), complete the 3 fields on the Create Alter page.
+    - **Alter Name**: type in the name of the individual that will be added to the roster
+    - **Email address**: type the individual’s email address. This is important if you plan to use Enso to distribute your survey via email.
+    - **Project**: Select the project name from the pulldown (again, it is beneficial to create a project before you start building a roster)
+        
+        ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/CreatingManagingRosters/Untitled%204.png)
+        
+- After completing the fields above, click the blue button “**Create New Alter**” to finalize the creation.
+    - Upon clicking, you will see a green confirmation box showing “Alter Created Successfully” (see image below).
+    - Press the “**Close**” button and you will be redirected to the Alters page for the **Project** you assigned for the newly created author.
+        - To add additional Alter to the same project, simply click the blue “New Alter” button at the top of the Alters page and repeat the steps above.
             
-            ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/CreatingManagingRosters/Untitled%204.png)
+            ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/CreatingManagingRosters/Untitled%205.png)
             
-    - After completing the fields above, click the blue button “**Create New Alter**” to finalize the creation.
-        - Upon clicking, you will see a green confirmation box showing “Alter Created Successfully” (see image below).
-        - Press the “**Close**” button and you will be redirected to the Alters page for the **Project** you assigned for the newly created author.
-            - To add additional Alter to the same project, simply click the blue “New Alter” button at the top of the Alters page and repeat the steps above.
-                
-                ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/CreatingManagingRosters/Untitled%205.png)
-                
-                ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/CreatingManagingRosters/Untitled%206.png)
-                
-    - Assign newly created alters to Roster
-        - After you create a new alter, they are assigned to a project but they are still not added to a Roster. If you wish to add the new alter to a Roster, you must follow the steps from the section “**Add Alters from existing Projects**”
-        - Navigate to the Rosters page
-            - Click the “Return to Library” link (or the “Library” link in the top menu) >> then click the blue “Rosters” button
-        - Find the Roster where you want to want to add the new alter you just created and then press the yellow “Edit” button.
+            ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/CreatingManagingRosters/Untitled%206.png)
             
-            ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/CreatingManagingRosters/Untitled%207.png)
+- Assign newly created alters to Roster
+    - After you create a new alter, they are assigned to a project but they are still not added to a Roster. If you wish to add the new alter to a Roster, you must follow the steps from the section “**Add Alters from existing Projects**”
+    - Navigate to the Rosters page
+        - Click the “Return to Library” link (or the “Library” link in the top menu) >> then click the blue “Rosters” button
+    - Find the Roster where you want to want to add the new alter you just created and then press the yellow “Edit” button.
+        
+        ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/CreatingManagingRosters/Untitled%207.png)
+        
+    - In the “**Alters**” section, find the new alter you just created and click the checkbox next to their name.
+        
+        ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/CreatingManagingRosters/Untitled%208.png)
+        
+    - Finally, click the blue “Update Roster” button at the bottom of the page.
+        - You should see a confirmation box stating “Roster Updated Successfully”
+        - You also should be able to find the added alter in the “Assigned Alters” section towards the bottom of the page (see below).
             
-        - In the “**Alters**” section, find the new alter you just created and click the checkbox next to their name.
+            ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/CreatingManagingRosters/Untitled%209.png)
             
-            ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/CreatingManagingRosters/Untitled%208.png)
+            ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/CreatingManagingRosters/Untitled%2010.png)
             
-        - Finally, click the blue “Update Roster” button at the bottom of the page.
-            - You should see a confirmation box stating “Roster Updated Successfully”
-            - You also should be able to find the added alter in the “Assigned Alters” section towards the bottom of the page (see below).
-                
-                ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/CreatingManagingRosters/Untitled%209.png)
-                
-                ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/CreatingManagingRosters/Untitled%2010.png)
-                
-                ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/CreatingManagingRosters/Untitled%2011.png)
+            ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/CreatingManagingRosters/Untitled%2011.png)
                 
 
 ## Remove Alter from Roster
