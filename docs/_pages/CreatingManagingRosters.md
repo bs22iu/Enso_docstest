@@ -27,7 +27,7 @@ title: Creating and Managing Rosters
         
         ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/CreatingManagingRosters/Untitled%203.png)
         
-- Add New Alters
+### Add New Alters
     - After clicking the green “Add New Alter” button (shown above), complete the 3 fields on the Create Alter page.
         - **Alter Name**: type in the name of the individual that will be added to the roster
         - **Email address**: type the individual’s email address. This is important if you plan to use Enso to distribute your survey via email.
