@@ -13,7 +13,10 @@ Enso is a survey and interview tool designed with a focus on collecting social n
 
 ## User Guides
 
-In the sidebar under the heading 'Documentation Pages', you will find links to user guides that illustrate how to use some of the key features in Enso. These guides will help answer the most common user questions.
+In the links below you will find user guides that illustrate how to use some of the key features in Enso. These guides will help answer the most common user questions. These links are also listed in the sidebar menu under the heading 'Documentation Pages' to facilate navigation between the different user guides.
+- [Survey Building Guide](_pages/SurveyBuildingGuide)
+- [Managing Interviews Using Enso](_pages/ManagingInterviews)
+- [Creating and Managing Rosters](_pages/CreatingManagingRosters)
 
 ## About Enso creator and development team
 Principal Investigator and Creator: [Kate Eddens](https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=keddens) (IUNI, IUB School of Public Health)
