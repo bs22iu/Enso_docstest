@@ -7,12 +7,15 @@ title: Creating and Managing Rosters
 
 - First, click on the “Library” link in the top menu or the blue “Library” button located in the middle on the home Enso landing page.
     
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/CreatingManagingRosters/Untitled.png)
+    <!-- ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/CreatingManagingRosters/Untitled.png) -->
+    ![Untitled](CreatingManagingRosters/Untitled.png)
+
     
 - Then click on the blue “Rosters” button located on the Library page
 - This will take you to the Rosters page, where you can find and view all the Rosters you have created.
     
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/CreatingManagingRosters/Untitled%201.png)
+    <!-- ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/CreatingManagingRosters/Untitled%201.png) -->
+    ![Untitled](CreatingManagingRosters/Untitled%201.png)
     
     ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/CreatingManagingRosters/Untitled%202.png)
     
