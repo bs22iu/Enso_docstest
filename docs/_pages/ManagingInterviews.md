@@ -7,7 +7,7 @@ title: Managing Interviews Using Enso
 
 First, click on the blue **Interviews** button in the top menu (as shown in the image below). You’ll see an interview administration page that looks something like this:
 
-![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled.png)
+![Untitled](ManagingInterviews/Untitled.png)
 
 From this page, you will be able to accomplish the following tasks, in three categories:
 
@@ -30,7 +30,7 @@ The next sections walk through the components of this page first, then steps for
 
 Each row on this page is a separate survey that you have the ability to administer. Currently, you will only see **GATE Baseline**. Eventually there will be follow-up surveys as well.
 
-![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%201.png)
+![Untitled](ManagingInterviews/Untitled%201.png)
 
 For each survey, you’ll see the following tools/buttons on the right hand side:
 
@@ -42,14 +42,14 @@ For each survey, you’ll see the following tools/buttons on the right hand side
 
 - The "Remove Survey" button (shown below) **will remove the survey from the tablet** and you **won’t be able to administer interviews**. If you remove the surveys from the tablet, the interview page will look like the screen below:
 
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%202.png)
+    ![Untitled](ManagingInterviews/Untitled%202.png)
 
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%203.png)
+    ![Untitled](ManagingInterviews/Untitled%203.png)
 
 - Restore Survey
     - If you accidentally click the remove survey button, you can restore the survey to the tablet, click **“Install Only”** as seen below.
     - If you want to restore the survey to the tablet AND begin an interview, click **“Install and Begin Interview.”**
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%204.png)
+    ![Untitled](ManagingInterviews/Untitled%204.png)
 
 <div class="c-alert c-alert--warning">
   <header class="c-alert__header">
@@ -66,7 +66,7 @@ For each survey, you’ll see the following tools/buttons on the right hand side
 
 - The "Reload" button reloads the same survey to the tablet, which would only need to be used if we **change the survey in some way and update it.**
 - To reload a survey, ****make sure you are connected to the server**** and **click Reload.**
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%205.png)
+    ![Untitled](ManagingInterviews/Untitled%205.png)
 
 #### Begin Interview
 
@@ -77,7 +77,7 @@ This button does exactly what it says; it takes you to the first page of the sur
 On the left side of the screen, under each survey name you’ll see the subtitle “Interviews on this device” with a button that reads “Show interviews” and a subtitle “Interviews on server (xx)” with a button that reads “Show xx interviews.” See below:
 
 (xx = the **TOTAL** number of interviews stored **on the server** for this survey)
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%206.png)
+    ![Untitled](ManagingInterviews/Untitled%206.png)
 
 - **Interviews on this device** indicates how many interviews using this survey have been conducted and are stored on this tablet (device). They may or may not be uploaded to the server as well.
 - **Interviews on server** indicates how many interviews using this survey have been conducted and are uploaded from ALL TABLETS to the server. This will show you the total number of interviews conducted using this survey, by ALL INTERVIEWERS.
@@ -91,8 +91,8 @@ In this example, we are looking at the interviews conducted using the SNAD Study
 First, you’ll see that now the **Show interviews** button is greyed out and says **Hide interviews**. If you no longer want to see the list of interviews, you can click this to hide them and clean up your screen view.
 
 You’ll see 6 columns below: **ID, Respondent, Interviewer, Upload All Interviews, Remove From Device,** and **Continue. E**ach column is detailed below.
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%207.png)
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%208.png)
+    ![Untitled](ManagingInterviews/Untitled%207.png)
+    ![Untitled](ManagingInterviews/Untitled%208.png)
 
 - **ID:** A unique ID assigned by Enso to each respondent who is interviewed
 - **Respondent**: The ID used by study personnel for each respondent, which is entered on the first screen of the survey
@@ -108,8 +108,8 @@ In this example, we are looking at ALL of the interviews conducted using the GAT
 First, you’ll see that now the **Show interviews** button is greyed out and says **Hide XX interviews**. If you no longer want to see the list of interviews, you can click this to hide them and clean up your screen view.
 
 You’ll see 4 columns below: **ID, Respondent, Created On,** and **Import Interview.**
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%209.png)
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%2010.png)
+    ![Untitled](ManagingInterviews/Untitled%209.png)
+    ![Untitled](ManagingInterviews/Untitled%2010.png)
 
 - **ID:** The unique ID assigned by Enso to each respondent who is interviewed
 - **Respondent**: The ID used by study personnel for each respondent, which is entered on the first screen of the survey, as explained above.
@@ -138,18 +138,18 @@ You’ll start **every new interview** from the Interviews page. To do so:
 - Go to the correct survey that you want to administer, for either the *Focal Subject* or the *Study Partner*.
 - Click the blue **Begin Interview** button in the row for that survey.
 
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%2011.png)
+    ![Untitled](ManagingInterviews/Untitled%2011.png)
 
 - After clicking you’ll see the screen shown below. **Type the unique study ID** for the participant you are about to interview into the “Respondent Name or ID” box and **CLICK ENTER on your keyboard or the blue “Begin Interview” button!!**
     - NOTE: If you don’t click Enter or Begin Interview, it won’t save the number you entered!
     
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%2012.png)
+    ![Untitled](ManagingInterviews/Untitled%2012.png)
     
 
 **New respondents**
 
 - If you are starting a **BASELINE** interview with a **NEW** respondent, make sure that when you enter the study ID, you see the words “NEW Respondent” below the text box, as seen below.
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%2013.png)
+    ![Untitled](ManagingInterviews/Untitled%2013.png)
 
 **Existing respondents**
 
@@ -164,27 +164,27 @@ You can **continue an interview** that has been interrupted. To do so:
 2. Go to “Interviews on this device”
 3. Click the blue **Show interviews** button in the row for that survey, as seen in this example:
     
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%2014.png)
+    ![Untitled](ManagingInterviews/Untitled%2014.png)
     
 4. Find the Survey ID of the respondent you want to interview in the **Respondent** column (see below)**.**
 5. Click on the blue **Continue** button to continue with that survey (e.g., continuing an interview with respondent **katetest222**, below).
 6. If you **DO NOT SEE** the respondent in that list, go to Step 7.
     
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%2015.png)
+    ![Untitled](ManagingInterviews/Untitled%2015.png)
     
 7. If you don’t see your respondent ID in the list of “Interviews on this device,” then click on the blue **“Interviews on server”**
     
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%2016.png)
+    ![Untitled](ManagingInterviews/Untitled%2016.png)
     
 8. Find the Survey ID of the respondent you want to interview in the **Respondent** column (see below)**.**
 9. Click on the yellow **Import Interview** button for that respondent (e.g., respondent bentest2, below).
     
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%2017.png)
+    ![Untitled](ManagingInterviews/Untitled%2017.png)
     
 10. Go back to “Interviews on this device” and click the blue **Show Interviews** button if it is not already open.
 11. You should now see the respondent listed in the interviews on the device (e.g., bentest2, below). You can click on the blue **Continue** button to continue the interview. It will take you to the **last page where you left off**.
 
-![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%2018.png)
+![Untitled](ManagingInterviews/Untitled%2018.png)
 
 <div class="c-alert c-alert--warning">
   <header class="c-alert__header">
@@ -226,19 +226,19 @@ To check to see what data need to be uploaded:
 2. Check the column with the “Upload All Interviews” heading.
 3. Interviews that you have conducted but have not yet been uploaded will show the beige **“Not uploaded”** alert, as in the screenshot below:
 
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%2019.png)
+    ![Untitled](ManagingInterviews/Untitled%2019.png)
 
 #### Upload interview data to server
 
 To upload these interviews:
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%2020.png)
+    ![Untitled](ManagingInterviews/Untitled%2020.png)
 
 1. Click on the green/blue **Upload All Interviews**  This will upload any data to the server. This will also **automatically remove all of the interview data from the device.**
 2. Click on the **Show XX Interviews** button under “Interviews on server (XX).” You should now see all of the interviews there, and none under “Interviews on this device” (see example below).
 
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%2021.png)
+    ![Untitled](ManagingInterviews/Untitled%2021.png)
 
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%2022.png)
+    ![Untitled](ManagingInterviews/Untitled%2022.png)
 
 #### Delete interview data from tablet
 
@@ -250,14 +250,14 @@ For example, see the image below. Perhaps you are through with “hrtest” and 
 
 1. Click on the red **Remove From Device** button next to “hrtest” and “xxx2.”
     
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%2023.png)
+    ![Untitled](ManagingInterviews/Untitled%2023.png)
     
 2. Check the “Interviews on server” list (below). You’ll now see “hrtest” returned to its position as ID 12, and “xxx2” returned to its position as ID 45. The “katetest999” interview is still on the server for your use.
 
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%2024.png)
+    ![Untitled](ManagingInterviews/Untitled%2024.png)
 
 **Don’t worry about accidentally deleting an interview that has not been uploaded.** Here’s what you’ll see if you try to:
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%2025.png)
+    ![Untitled](ManagingInterviews/Untitled%2025.png)
 
 Just click **Close** and go back about your business! It’s hard to delete data.
 
@@ -274,7 +274,7 @@ You can see the list of installed surveys by clicking **“Installed Surveys”*
 3. Click “**Install Only”** if you aren’t immediately conducting an interview.
 4. Click “**Install and Begin Interview”** if you are ready to conduct an interview.
     
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%2026.png)
+    ![Untitled](ManagingInterviews/Untitled%2026.png)
     
 
 #### Reloading a survey after update/removal
@@ -317,17 +317,17 @@ Enso saves data to the respondent. To carry networks forward from one survey to 
 ### Installing respondent to device for follow-up
 
 Go to the top of the Interviews page and click on **Respondents** (see below).
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%2027.png)
+    ![Untitled](ManagingInterviews/Untitled%2027.png)
 
 You’ll see a pop-up list like the one below. This list has columns for **Name**, **Alter Count, Alter Groups,** and **whether the respondent is installed on the device.**
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%2028.png)
+    ![Untitled](ManagingInterviews/Untitled%2028.png)
 
 - **Name** is the ID that you all have given the respondent, entered for each survey.
 - **Alter Count** is the number of network members counted for that respondent.
 - **Alter Groups** is a list of the alter groups that network member is a part of.
 
 You only need to worry about **Name** and the column for **Install Respondent.**
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%2029.png)
+    ![Untitled](ManagingInterviews/Untitled%2029.png)
 
 The final column will say “**Installed”/”Re-install”** if the respondent is already installed on the device, and “**Install Respondent”** if the respondent is NOT on the device.
 
@@ -345,7 +345,7 @@ Enso saves data in three files:
 2. Alter data with ego ties – A row for each alter that includes the EgoID for linking. Each column is a variable with values per alter.
 3. Alter ties – a row for each alter pair, with columns as variables of values for alter ties.
 
-    ![Untitled](https://bs22iu.github.io/Enso_docstest/assets/img/ManagingInterviews/Untitled%2030.png)
+    ![Untitled](ManagingInterviews/Untitled%2030.png)
 
 **To download data**:
 1. Go to “Surveys.”
